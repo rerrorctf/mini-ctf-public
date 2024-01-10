@@ -1,0 +1,9 @@
+flag format: flag{**************}
+
+pwn this locally!
+
+make a file called flag.txt in the same directory as the binary
+
+one day we'll be able to afford a remote to pwn :)
+
+ask us if you have any questions / trouble!

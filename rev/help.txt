@@ -1,0 +1,3 @@
+flag format: flag{**************}
+
+what is the correct input to provide?
