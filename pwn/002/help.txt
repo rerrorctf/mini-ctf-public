@@ -1,0 +1,16 @@
+flag format: flag{**************}
+
+pwn this locally!
+
+make a file called flag.txt in the same directory as the binary
+
+one day we'll be able to afford a remote to pwn :)
+
+**note**
+
+you can approach this exercise two ways:
+
+1) treat it as a BLIND pwn as if you only have the remote
+2) treat it as a pwn with the option of reversing the binary
+
+ask us if you have any questions / trouble!
