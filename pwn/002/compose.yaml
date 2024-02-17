@@ -1,0 +1,5 @@
+services:
+  task:
+    build: .
+    ports:
+       - 9001:9001
